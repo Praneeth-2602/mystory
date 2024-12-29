@@ -104,4 +104,9 @@ export const ContributorsData = [
     github: 'suraj-9849',
     imageUrl: 'https://avatars.githubusercontent.com/u/146669517?v=4',
   },
+  {
+    name: 'Praneeth Palugula',
+    github: 'praneeth-2602',
+    imageUrl: 'https://avatars.githubusercontent.com/u/137754636?v=4',
+  }
 ];
